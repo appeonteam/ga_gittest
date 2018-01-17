@@ -3,5 +3,6 @@
  "1.pbl" "";
 @end;
 @begin Objects 
+ "str_1.srs" "1.pbl";
  "w_1.srw" "1.pbl";
 @end;
