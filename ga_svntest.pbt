@@ -4,5 +4,5 @@ Save Format v3.0(19990112)
 @end;
 appname "ga_svntest";
 applib "ga_svntest.pbl";
-LibList "ga_svntest.pbl;1.pbl";
+LibList "ga_svntest.pbl;1.pbl;2.pbl";
 type "pb";
